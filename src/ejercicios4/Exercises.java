@@ -41,8 +41,6 @@ public class Exercises
     {
       ArrayList<Integer> answer = new ArrayList<>();
       Collections.sort(list);
-      
-                
-        return list;
+      return list;
     }
 }
